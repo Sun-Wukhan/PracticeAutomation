@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Extent Report Directory/Users/navid/Documents/PLEASEWORK/automationpractice/target/surefire-reports/html]]>
+    </line>
+    <line>
+      <![CDATA[Click Basic Page Length]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Basic Page Length]]>
+    </line>
+    <line>
+      <![CDATA[Click The Elements Attribute Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked The Elements Attribute Link]]>
+    </line>
+    <line>
+      <![CDATA[Click Button to add another Attribute]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Button to add another Attribute]]>
+    </line>
+    <line>
+      <![CDATA[Click locating links page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked locating links page]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-05-16T02:32:29Z" name="Automation Test" finished-at="2020-05-16T02:32:44Z" duration-ms="14792">
+    <groups>
+    </groups>
+    <test started-at="2020-05-16T02:32:29Z" name="Practice Page" finished-at="2020-05-16T02:32:44Z" duration-ms="14792">
+      <class name="page_objects_test.HerokuAppTest">
+        <test-method is-config="true" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:28Z" name="extentSetup" finished-at="2020-05-15T22:32:29Z" duration-ms="447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@109f5dd8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Report Directory/Users/navid/Documents/PLEASEWORK/automationpractice/target/surefire-reports/html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- extentSetup -->
+        <test-method is-config="true" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:29Z" name="setUp" finished-at="2020-05-15T22:32:33Z" duration-ms="3980" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10.15.4]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[81]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://testpages.herokuapp.com/styled/index.html]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:33Z" name="startExtent" finished-at="2020-05-15T22:32:33Z" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void page_objects_test.HerokuAppTest.openingTheFirstLink() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:33Z" name="setUp" finished-at="2020-05-15T22:32:33Z" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openingTheFirstLink()[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:33Z" name="openingTheFirstLink" finished-at="2020-05-15T22:32:37Z" duration-ms="3692" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click Basic Page Length]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Basic Page Length]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openingTheFirstLink -->
+        <test-method is-config="true" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:37Z" name="afterEachTestMethod" finished-at="2020-05-15T22:32:37Z" duration-ms="483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=openingTheFirstLink status=SUCCESS method=HerokuAppTest.openingTheFirstLink()[pri:0, instance:page_objects_test.HerokuAppTest@70beb599] output=Click Basic Page Length]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method is-config="true" signature="closeOut()[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:37Z" name="closeOut" finished-at="2020-05-15T22:32:37Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeOut -->
+        <test-method is-config="true" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:37Z" name="setUp" finished-at="2020-05-15T22:32:39Z" duration-ms="2376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10.15.4]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[81]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://testpages.herokuapp.com/styled/index.html]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:39Z" name="startExtent" finished-at="2020-05-15T22:32:39Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void page_objects_test.HerokuAppTest.openingTheSecondLink()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:39Z" name="setUp" finished-at="2020-05-15T22:32:39Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openingTheSecondLink()[pri:1, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:39Z" name="openingTheSecondLink" finished-at="2020-05-15T22:32:40Z" duration-ms="708" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click The Elements Attribute Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked The Elements Attribute Link]]>
+            </line>
+            <line>
+              <![CDATA[Click Button to add another Attribute]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Button to add another Attribute]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openingTheSecondLink -->
+        <test-method is-config="true" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:40Z" name="afterEachTestMethod" finished-at="2020-05-15T22:32:40Z" duration-ms="183" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=openingTheSecondLink status=SUCCESS method=HerokuAppTest.openingTheSecondLink()[pri:1, instance:page_objects_test.HerokuAppTest@70beb599] output=Click The Elements Attribute Link]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method is-config="true" signature="closeOut()[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:40Z" name="closeOut" finished-at="2020-05-15T22:32:40Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeOut -->
+        <test-method is-config="true" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:40Z" name="setUp" finished-at="2020-05-15T22:32:43Z" duration-ms="2381" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10.15.4]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[81]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://testpages.herokuapp.com/styled/index.html]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:43Z" name="startExtent" finished-at="2020-05-15T22:32:43Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void page_objects_test.HerokuAppTest.openingTheThirdLink()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:43Z" name="setUp" finished-at="2020-05-15T22:32:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openingTheThirdLink()[pri:2, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:43Z" name="openingTheThirdLink" finished-at="2020-05-15T22:32:43Z" duration-ms="674" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click locating links page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked locating links page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openingTheThirdLink -->
+        <test-method is-config="true" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:43Z" name="afterEachTestMethod" finished-at="2020-05-15T22:32:44Z" duration-ms="200" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=openingTheThirdLink status=SUCCESS method=HerokuAppTest.openingTheThirdLink()[pri:2, instance:page_objects_test.HerokuAppTest@70beb599] output=Click locating links page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method is-config="true" signature="closeOut()[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:44Z" name="closeOut" finished-at="2020-05-15T22:32:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeOut -->
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:page_objects_test.HerokuAppTest@70beb599]" started-at="2020-05-15T22:32:44Z" name="generateReport" finished-at="2020-05-15T22:32:44Z" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- page_objects_test.HerokuAppTest -->
+    </test> <!-- Practice Page -->
+  </suite> <!-- Automation Test -->
+</testng-results>
